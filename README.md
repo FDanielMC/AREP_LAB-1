@@ -29,6 +29,9 @@ Estas instrucciones te van a permitir obtener una copia del proyecto y ejecutarl
 
 ### JAVADOC
 Se encuentra en AREP_LAB-1\AREPLab1\target\site\apidocs.
+En caso que no se puede generar, desde NETBEANS en run se puede generar y se ubica en la carpeta AREP_LAB-1\AREPLab1\target\site\apidocs.
+![image](https://github.com/FDanielMC/AREP_LAB-1/assets/123689924/1156cf8e-0ba9-4ee5-b1a3-533b66e5abe6)
+
 
 ### Descripción del Programa
 El programa consta por 4 clases java. La clase Main es la que pondra en funcionamiento todo el programa, la clase MovieClient pondra en ejecución el servidor web que retorna las páginas necesarias para poder realizar la búsqueda de las películas. Por medio de la clase OMDBProvider se realizan las peticiones correspondientes a la API externa y una clase Cache para almacenar las peticiones que ya se han realizado, así usando un buen uso de los recursos.
