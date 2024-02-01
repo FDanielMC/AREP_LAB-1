@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"com.escuelaing.edu.co.areplab1","l":"Cache"},{"p":"com.escuelaing.edu.co.areplab1","l":"Main"},{"p":"com.escuelaing.edu.co.areplab1","l":"MovieClient"},{"p":"com.escuelaing.edu.co.areplab1","l":"OMDBProvider"}];updateSearchResults();
