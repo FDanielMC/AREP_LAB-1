@@ -19,11 +19,8 @@ Estas instrucciones te van a permitir obtener una copia del proyecto y ejecutarl
 
 ### Instalación
     1. Clonar este respositorio en su computadora:
-      - ```bash
-git clone https://github.com/FDanielMC/AREP_LAB-1.git
-cd AREP_LAB-1.git/
-
-```
+        - git clone https://github.com/FDanielMC/AREP_LAB-1.git
+        - cd AREP_LAB-1.git/
     2. Abra el proyecto desde NETBEANS.
     3. Luego diríjase al directorio src en el cual se encontrará las carpetas para que pueda ejecutar el programa.
     4. Arranca el Main.java.
