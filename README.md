@@ -33,8 +33,8 @@ Se encuentra en AREP_LAB-1\AREPLab1\target\site\apidocs.
 ### Descripción del Programa
 El programa consta por 4 clases java. La clase Main es la que pondra en funcionamiento todo el programa, la clase MovieClient pondra en ejecución el servidor web que retorna las páginas necesarias para poder realizar la búsqueda de las películas. Por medio de la clase OMDBProvider se realizan las peticiones correspondientes a la API externa y una clase Cache para almacenar las peticiones que ya se han realizado, así usando un buen uso de los recursos.
 
-![imagen](https://github.com/FDanielMC/AREP_LAB-1.git/AREPLab1/assets/img_1.png)
-![imagen](https://github.com/FDanielMC/AREP_LAB-1.git/AREPLab1/assets/img_2.png)
+![imagen](https://github.com/FDanielMC/AREP_LAB-1/AREPLab1/assets/img_1.png)
+![imagen](https://github.com/FDanielMC/AREP_LAB-1/AREPLab1/assets/Screenshot_2.png)
 
 ### Autores
  * Daniel Fernando Moreno Cerón
