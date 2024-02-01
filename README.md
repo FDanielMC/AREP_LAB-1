@@ -38,7 +38,7 @@ El programa consta por 4 clases java. La clase Main es la que pondra en funciona
 
 ### Autores
  * Daniel Fernando Moreno Cerón
-### Licensia
+### Licencia
 This project is licensed under the MIT License - see the LICENSE.md file for details
 ### Agradecimientos
 Escuela Colombiana de Ingeniería
